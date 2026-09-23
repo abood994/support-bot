@@ -1,0 +1,16 @@
+{
+  "token": "OTAyMjk5ODQyMDU4MDEwNjY0.Gh8wZ8.2rMemaDnLJfMWXish8h5biastHPG3qeFr1iS0M",
+  "clientId": "902299842058010664",
+  "clientSecret": "z0G9SntmUX9SNpBKALO03vqNHNHusDAh",
+  "guildId": "929215095895117824",
+  "youtubeChannel1Url": "https://www.youtube.com/@dastartv",
+  "youtubeChannel2Url": "https://www.youtube.com/@rezr_0",
+  "subscriptionRoleId": "944613096687800373",
+  "supportRoleId": "1053466682791833700",
+  "logsChannelId": "1321817902097371198",
+  "ownerId": "875700495300304896",
+  "redirectUri": "https://support.mayor-cloud.site/auth/callback",
+  "footer": "Support social media © 2026",
+  "panelImage": "https://i.imgur.com/AfFp7pu.png",
+  "promoPoints": 50
+}
